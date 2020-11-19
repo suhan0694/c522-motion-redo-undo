@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CS522_HW3</string>
+    <string name="value_format">%1$.2f</string>
 </resources>
