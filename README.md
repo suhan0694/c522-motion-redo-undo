@@ -19,7 +19,7 @@ Implementing Undo/Redo on a textview with Accelerometer and Gyroscope.
 
 ## Demo 
 
-![Alt Text](https://media.giphy.com/media/KJgXH4Mh4yPjZZ18TP/giphy.gif)
+![Demo Gif](demo_gif.gif)
 
 ## References
 
